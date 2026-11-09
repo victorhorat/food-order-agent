@@ -1,0 +1,82 @@
+[
+  {
+    "item_id": "pizza-margherita",
+    "nome": "Pizza Margherita",
+    "categoria": "pizza",
+    "preco": 42.90,
+    "vegetariano": true,
+    "restaurante": "Pizzaria Napoli"
+  },
+  {
+    "item_id": "pizza-pepperoni",
+    "nome": "Pizza Pepperoni",
+    "categoria": "pizza",
+    "preco": 48.90,
+    "vegetariano": false,
+    "restaurante": "Pizzaria Napoli"
+  },
+  {
+    "item_id": "pizza-quatro-queijos",
+    "nome": "Pizza Quatro Queijos",
+    "categoria": "pizza",
+    "preco": 45.90,
+    "vegetariano": true,
+    "restaurante": "Pizzaria Napoli"
+  },
+  {
+    "item_id": "burger-classico",
+    "nome": "Burger Clássico",
+    "categoria": "hamburguer",
+    "preco": 32.00,
+    "vegetariano": false,
+    "restaurante": "Burger House"
+  },
+  {
+    "item_id": "burger-veggie",
+    "nome": "Burger Veggie",
+    "categoria": "hamburguer",
+    "preco": 34.00,
+    "vegetariano": true,
+    "restaurante": "Burger House"
+  },
+  {
+    "item_id": "batata-frita",
+    "nome": "Batata Frita",
+    "categoria": "acompanhamento",
+    "preco": 15.00,
+    "vegetariano": true,
+    "restaurante": "Burger House"
+  },
+  {
+    "item_id": "salada-caesar",
+    "nome": "Salada Caesar",
+    "categoria": "salada",
+    "preco": 28.00,
+    "vegetariano": true,
+    "restaurante": "Green Bowl"
+  },
+  {
+    "item_id": "bowl-frango",
+    "nome": "Bowl de Frango Grelhado",
+    "categoria": "salada",
+    "preco": 36.00,
+    "vegetariano": false,
+    "restaurante": "Green Bowl"
+  },
+  {
+    "item_id": "refrigerante-lata",
+    "nome": "Refrigerante Lata",
+    "categoria": "bebida",
+    "preco": 7.00,
+    "vegetariano": true,
+    "restaurante": "Pizzaria Napoli"
+  },
+  {
+    "item_id": "suco-natural",
+    "nome": "Suco Natural",
+    "categoria": "bebida",
+    "preco": 9.50,
+    "vegetariano": true,
+    "restaurante": "Green Bowl"
+  }
+]
